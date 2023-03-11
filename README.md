@@ -5,8 +5,8 @@
 ### Escola Senai Ary Torres "Curso de desenho técnico mecânico" realizado em 1998.
 ### Escola Senai Ary Torres "Técnico em Desenhos e Projetos" realizado em 1999/2001.
 ###  Escola Senai Suico Brasileiro " Curso de Auto Cad 3D" realizado em 2004.
- Escola Senai Ary Torres " Curso de Mecânica Automotiva " 2004/2005.
- Escola Senai Leopodina
+### Escola Senai Ary Torres " Curso de Mecânica Automotiva " 2004/2005.
+### Escola Senai Leopodina
 
 
 
