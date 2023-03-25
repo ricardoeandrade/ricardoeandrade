@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+</head>
+
+<title>Atividade 2 turma 4</title>
+
+</head>
+<body text-"black" bgcolor - "beige">
+
+
+
+
+
+<img arc = "html\ fotol . jpg" style= width : 200px;height:200px;">
+<br><p style="color:red; "> CONTATO</br>
+Data de nascimento: 28/05/1973 49 anos</br>
+Endereço: Rua Abraham Bloemaert, 299 Jardim das Vertentes São Paulo SP</br>
+Celular: 11 9980391655</br>
+<a href ="malito: ricjames_32@hotmail.com> Email/a></br>
+
+
+
+
+
+<h1><center>Ricardo Eugênio de Andrade</h1>
+
+
+<hr>
+
+
+<h3> PROGRAMADOR FRONT END, BACK END E FULL STACK </h3><br>
+
+
+ <h3>FORD DO BRASIL </h3.<br>
+ cargo: Programador Front End  <br> Inicio: 10/03/2023 Término: emprego atual<br>
+<hr>
+
+<br><h3>FORMAÇÃO ACADEMICA</h3><br>
+<br>Ensino Superior Engenharia da Computaçao <br>
+Universidade Virtual do Estado de São Paulo - UNIVESP
+Conclusão: 12/2025
+
+
+
+
+
+
+
+
+</body>
+
+
+
