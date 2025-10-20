@@ -40,8 +40,12 @@ novos talentos.
 #### Senai Ipiranga " Curso de Desenvolvedor Front End" realizado em   2023/2024.
 #### Senai Ipiranga " Curso de Power BI " realizado em 2023.
 #### Senai (On Line) " Curso de Excel Básico" realizado em 2023.
+#### Santander Academy " Curso de Python Básico"  realizado em 2024.
+#### Senai (On Line) " Cursos de Introdução a Cibersegurança" realizado em 2024.
+#### DIO " Curso de Engenharia de Pronpt" realizado em 2024.
+#### Escola "Grandes Projetos"  "Curso de SAP Introdutório" realizado em 2024.
 #### Curso de " AWS REstart" Escola da Nuvem realizado em 2024/2025.
-#### Senai Ipiranga  " Curso de Back End " realizado em 2024.
+#### Senai Ipiranga  " Curso de Back End " realizado em 2025.
 #### Senai Ipiranga  " Curso de Banco de Dados " realizado em 2025.
 #### Senai Ipiranga  " Curso de IA Generativa "  realizado em 2025.
 #### Curso "IA Generativa + Python para Amazon Bedrock " realizado em 2025.
