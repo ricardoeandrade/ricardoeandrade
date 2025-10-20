@@ -1,5 +1,9 @@
->## Sobre mim ***Meu nome é Ricardo Eugênio de Andrade e estou em busca da minha primeira 
-oportunidade de estágio na área de Tecnologia da Informação. Atualmente, sou 
+>## Sobre mim ***Meu nome é Ricardo Eugênio de Andrade , casado , sem filhos 
+>morador de São PAulo -Capital.
+>Gosto de Filmes, tenis de mesa , assuntos diversos , navegar na internet.
+>Sou dono de "Pets de 4 rodas" Tenho um Onix 2020 e Passat 1976. Ambos me dão muito trabalhoe e também alegria.
+>Sou colaborativo, gosto de pessoas, trabalho em grupo, empatico e resiliente.
+Busco oportunidade de estágio na área de Tecnologia da Informação. Atualmente, sou 
 estudante de Engenharia da Computação pela Univesp e venho aprimorando minha 
 formação por meio de cursos práticos em Desenvolvimento Front-End, Back-End, 
 Banco de Dados, Computação em Nuvem e Inteligência Artificial Generativa pelo 
@@ -33,8 +37,10 @@ novos talentos.
 #### Curso de Gestã de Projetos "FMU" realizado em 2017 ( 2 meses).
 #### Curso de Auto Cad "Escola de Teatro São Paulo" realizado em 2019 ( 3 meses).
 #### Curso de "APP INVENTOR "RECODE" realizad0 EM 2022 ( 2 meses).
-#### Curso de " AWS REstart" Escola da Nuvem realizado em 2024/2025.
 #### Senai Ipiranga " Curso de Desenvolvedor Front End" realizado em   2023/2024.
+#### Senai Ipiranga " Curso de Power BI " realizado em 2023.
+#### Senai (On Line) " Curso de Excel Básico" realizado em 2023.
+#### Curso de " AWS REstart" Escola da Nuvem realizado em 2024/2025.
 #### Senai Ipiranga  " Curso de Back End " realizado em 2024.
 #### Senai Ipiranga  " Curso de Banco de Dados " realizado em 2025.
 #### Senai Ipiranga  " Curso de IA Generativa "  realizado em 2025.
