@@ -1,5 +1,5 @@
 >## Sobre mim
->## Ricardo Eugênio de Andrade ,52 moradoe de São Paulo -Capital.
+>## Ricardo Eugênio de Andrade - 52 anos , morador de São Paulo -Capital.
 #### Possuo experiencia na area de desenho mecânico(AUTOCAD 2 E 3 d) , desenhista projetista , conhecimento na area de mecânica indústrial e mecanica automotiva.
 ## Conhecimento Acadêmico
 #### Escola Senai Ary Torres "Desenho técnico mecânico"  realizado em 1998.
