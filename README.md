@@ -1,4 +1,24 @@
->## Sobre mim
+>## Sobre mim ***Meu nome é Ricardo Eugênio de Andrade e estou em busca da minha primeira 
+oportunidade de estágio na área de Tecnologia da Informação. Atualmente, sou 
+estudante de Engenharia da Computação pela Univesp e venho aprimorando minha 
+formação por meio de cursos práticos em Desenvolvimento Front-End, Back-End, 
+Banco de Dados, Computação em Nuvem e Inteligência Artificial Generativa pelo 
+Senai Ipiranga. 
+Sou um profissional com perfil proativo, analítico e orientado a resultados, sempre 
+em busca de aprendizado contínuo. Possuo certificações em Excel básico, Power BI, 
+Cibersegurança introdutória, Gestão de Projetos, SAP para iniciantes, AutoCAD, 
+SolidWorks, ESG e Inglês nível B1. Essa combinação de conhecimentos me permite 
+atuar de forma ampla, técnica e colaborativa, contribuindo para soluções tecnológicas 
+inovadoras e sustentáveis. 
+Tenho facilidade em trabalho em equipe, comunicação eficaz e resolução de 
+problemas. Busco aplicar minhas habilidades em projetos de tecnologia, 
+especialmente nas áreas de desenvolvimento de software, cloud computing e 
+automação de processos. 
+Coloco-me à disposição para uma entrevista, onde poderei detalhar minha trajetória, 
+competências e motivações. Agradeço desde já pela atenção e pela oportunidade de 
+integrar um time que valorize o crescimento profissional e o desenvolvimento de 
+novos talentos.
+
 >## Ricardo Eugênio de Andrade - 52 anos , morador de São Paulo -Capital.
 #### Possuo experiencia na area de desenho mecânico(AUTOCAD 2 E 3 d) , desenhista projetista , conhecimento na area de mecânica indústrial e mecanica automotiva.
 ## Conhecimento Acadêmico
